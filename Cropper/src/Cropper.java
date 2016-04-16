@@ -15,6 +15,7 @@ import org.apache.pdfbox.util.ImageIOUtil;
  * @author <a href="dongzhaoan@163.com">Zhaoan Dong</a>
  * @version $Revision: 1.0 $
  */
+
 public class Cropper {
 	int DEFAULT_USER_SPACE_UNIT_DPI = 72;
 
