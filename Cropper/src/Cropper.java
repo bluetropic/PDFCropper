@@ -12,7 +12,7 @@ import org.apache.pdfbox.util.ImageIOUtil;
 /**
  * Crop an rectangle area in a PDF document to an image.
  *
- * @author <a href="dongzhaoan@163.com">Zhaoan Dong</a>
+ * @author <a href="">bluetropic</a>
  * @version $Revision: 1.0 $
  */
 
